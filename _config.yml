@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Mark Perry
+title:            'Mark Perry'
 tagline:          'Development Blog'
 description:      'Just one dev's thoughts on mondern developement'
 url:              http://blog.markperry.co.uk
