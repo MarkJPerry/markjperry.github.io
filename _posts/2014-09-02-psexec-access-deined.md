@@ -12,7 +12,7 @@ The error displayed in TeamCity was "Access Denied".
 After checking the following helpful articles and trying all the various fixes nothing was working:
 
 * [StackOverflow - psexec Access Denied Errors](http://stackoverflow.com/questions/828432/psexec-access-denied-errors)
-* [Sysinternals - Help] http://forum.sysinternals.com/topic15919.html
+* [Sysinternals - Help](http://forum.sysinternals.com/topic15919.html)
 
 Until one of my team mentioned that when he remoted onto the server the Sophos Antivirus was showing one quarantined file.
 
