@@ -1,11 +1,11 @@
 ---
 layout: post
-title: psexec - Access Denied error
+title: psexec - Error - Access is denied
 ---
 
 Had a little problem today with our TeamCity build server not running the install step of our windows services using psexec.
 
-The error displayed in TeamCity was "Access is Denied".
+The error displayed in TeamCity was "Access is denied".
 
 ![TeamCity Error]({{site.url}}/public/posts/2014-09-02-psexec-access-denied/TeamCityError.png)
 
